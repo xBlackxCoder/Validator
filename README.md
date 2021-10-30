@@ -15,9 +15,11 @@ You'll be responsible yourself for whatever you do!!
 
 Installation : 
 ------
+```
 pip install requests
 pip install colorama
 python3 main.py
+```
 
 Make Sure To add Proxies In Proxy.txt File xD
 
